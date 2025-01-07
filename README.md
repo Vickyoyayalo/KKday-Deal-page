@@ -1,4 +1,4 @@
-# AppWork School Project 1: KKday discount Area ✈️ (from 1 to 10)
+# AppWork School Project 2: KKday discount Area ✈️ (from 1 to 10)
 💰 One Zone, All Discounts: Enhancing User Experience 💰
 
 ### 👩🏻‍💻 Team Contributions:
